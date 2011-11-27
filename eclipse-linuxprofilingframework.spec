@@ -8,7 +8,7 @@
 
 Name:           eclipse-linuxprofilingframework
 Version:        0.6.1
-Release:        2
+Release:        4
 Summary:        Eclipse Linux Tools Profiling Framework
 
 Group:          Development/Java
