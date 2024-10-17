@@ -13,7 +13,7 @@ Summary:        Eclipse Linux Tools Profiling Framework
 
 Group:          Development/Java
 License:        EPL
-URL:            http://eclipse.org/linuxtools
+URL:            https://eclipse.org/linuxtools
 # sh -x ./eclipse-linuxprofilingframework-fetch-src.sh %{src_repo_tag}
 Source0:        %{name}-fetched-src-%{src_repo_tag}.tar.bz2
 Source1:        %{name}-fetch-src.sh
